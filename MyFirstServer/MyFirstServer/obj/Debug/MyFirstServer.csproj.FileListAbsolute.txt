@@ -1,0 +1,11 @@
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\bin\Debug\MyFirstServer.exe.config
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\bin\Debug\MyFirstServer.exe
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\bin\Debug\MyFirstServer.pdb
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.Form1.resources
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.exe
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstServer\MyFirstServer\obj\Debug\MyFirstServer.pdb

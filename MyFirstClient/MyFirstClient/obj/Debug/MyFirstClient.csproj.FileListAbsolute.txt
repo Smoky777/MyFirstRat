@@ -1,0 +1,11 @@
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\bin\Debug\MyFirstClient.exe.config
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\bin\Debug\MyFirstClient.exe
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\bin\Debug\MyFirstClient.pdb
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.Form1.resources
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.exe
+C:\Users\smoky\Source\Repos\MyFirstRat\MyFirstClient\MyFirstClient\obj\Debug\MyFirstClient.pdb
