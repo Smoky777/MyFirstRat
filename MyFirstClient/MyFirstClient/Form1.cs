@@ -212,12 +212,7 @@ namespace MyFirstClient
 
                 if (e.KeyCode == Keys.Enter)
                 {
-
-                    //-- (optional) suppresses ding sound
-
                     e.SuppressKeyPress = true;
-
-
 
                     strinput.Append(TxtCommand.Text.ToString());
 
